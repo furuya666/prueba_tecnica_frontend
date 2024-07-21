@@ -3,7 +3,7 @@
 
 # INSTALACIONES
 ## 1 NODE // instalacion como cualquier programa solo next y next hasta el final
-## 2 npm install npm@latest -g // abrir consola o terminal  y ejecutar este comando desde consola
+
 
 # COMO EJECUTAR PROYECTO
 ## abrir consola o terminal en donde el proyecto se encuentre ya que en ahi se ejecutara los siguientes comandos:
